@@ -6,7 +6,7 @@ This app is used to manage products.
 
 | iOS         | Android    |
 |-------------|------------|
-| <kbd><img src="/public/ios_xamarin_simulator.png" width="400px"></kbd> | <kbd><img src="/public/android_xamarin_emulator.png" width="400px"></kbd> |
+| <kbd><img src="/public/ios_xamarin_simulator.png" width="350px"></kbd> | <kbd><img src="/public/android_xamarin_emulator.png" width="400px"></kbd> |
 
 # Setup Locally
 ```bash
