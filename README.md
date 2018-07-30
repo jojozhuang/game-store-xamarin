@@ -1,8 +1,8 @@
 # Game Store Xamarin
-An iOS app and an Android app to manage products, built with Xamarin in C#.
+Two mobile apps, one is iOS app and another is Android app, both are built with Xamarin in C#.
 
 # Function
-This app is used to manage products.
+Both two apps are used to manage products.
 
 | iOS         | Android    |
 |-------------|------------|
