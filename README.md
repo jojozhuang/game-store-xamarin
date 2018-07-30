@@ -6,7 +6,7 @@ This app is used to manage products.
 
 | iOS         | Android    |
 |-------------|------------|
-| <kbd><img src="/public/ios_xamarin_simulator.png" width="350px"></kbd> | <kbd><img src="/public/android_xamarin_emulator.png" width="400px"></kbd> |
+| <kbd><img src="/public/ios_xamarin_simulator.png" width="330px"></kbd> | <kbd><img src="/public/android_xamarin_emulator.png" width="400px"></kbd> |
 
 # Setup Locally
 ```bash
@@ -22,4 +22,4 @@ Read portfolio [Game Store(Multi)](http://jojozhuang.github.io/portfolio/game-st
 # Tutorial
 Read tutorial [Building iOS App with Xamarin](http://jojozhuang.github.io/tutorial/mobile/building-ios-app-with-xamarin/) to learn how the iOS app is built.
 
-Read tutorial [Building iOS App with Xamarin](http://jojozhuang.github.io/tutorial/mobile/building-ios-app-with-xamarin/) to learn how the Android app is built.
+Read tutorial [Building Android App with Xamarin](http://jojozhuang.github.io/tutorial/mobile/building-android-app-with-xamarin/) to learn how the Android app is built.
