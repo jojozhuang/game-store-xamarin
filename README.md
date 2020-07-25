@@ -17,9 +17,9 @@ Open the project in Visual Studio.
 * Android: Set 'GameStoreXamarin.Android' as the Startup project, compile and run.
 
 # Portfolio
-Read portfolio [Game Store(Multi)](https://jojozhuang.github.io/portfolio/game-store-multi/) to learn the main functions of this iOS app.
+Read portfolio [Game Store(Multi)](https://jojozhuang.github.io/project/game-store-multi) to learn the main functions of this iOS app.
 
 # Tutorial
-Read tutorial [Building iOS App with Xamarin](https://jojozhuang.github.io/tutorial/mobile/building-ios-app-with-xamarin/) to learn how the iOS app is built.
+Read tutorial [Building iOS App with Xamarin](https://jojozhuang.github.io/tutorial/building-ios-app-with-xamarin) to learn how the iOS app is built.
 
-Read tutorial [Building Android App with Xamarin](https://jojozhuang.github.io/tutorial/mobile/building-android-app-with-xamarin/) to learn how the Android app is built.
+Read tutorial [Building Android App with Xamarin](https://jojozhuang.github.io/tutorial/building-android-app-with-xamarin) to learn how the Android app is built.
